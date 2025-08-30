@@ -1,3 +1,6 @@
+# Purpose of Fork
+Building integration, will include link back to [https://ssa.tools/about](https://ssa.tools/about) to my users. Contact [https://finpodsai.com/](https://finpodsai.com/) with any questions or raise an issue. 
+
 # social-security-tools
 
 Website Source for <https://ssa.tools/>.
